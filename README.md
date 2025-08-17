@@ -18,7 +18,7 @@
 - Integration with wearables and health data.
 - Mood and stress detection via voice or text.
 - Empathetic, data-driven insights and recommendations.
-- 
+  
 **TECHNICAL IMPLEMENTATION**:
 AI/NLP Training: Used Python in Google Colab for emotion and intent detection models.
 Emotion Analysis: Implemented basic keyword and rule-based sentiment analysis without
@@ -32,7 +32,7 @@ Architecture: Lightweight, mobile-first application supported by adaptive backen
 **TOOLS AND RESOURCES USED**:-Google Colab – For prototyping and model development
 - Python – Core programming language
 - APIs – Google Fit API with API key-based access for collecting health metrics
-- 
+  
 **LINK TO GOOGLE COLAB**:
 **DIRECT LINK**:https://colab.research.google.com/drive/1PdbIBnHJwu4vqXvrPbvU32VE3TBCH1I8?usp=sharing
   
